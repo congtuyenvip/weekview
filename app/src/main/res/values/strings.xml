@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeekView</string>
+    <string name="mon">(月)</string>
+    <string name="tues">(火)</string>
+    <string name="wed">(水)</string>
+    <string name="thu">(木)</string>
+    <string name="fri">(金)</string>
+    <string name="sat">(土)</string>
+    <string name="sun">(日)</string>
+</resources>
